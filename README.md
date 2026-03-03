@@ -147,3 +147,10 @@ O método pode ser aplicado em:
 ## 📄 Palavras-chave
 
 Inteligência Artificial Generativa, Geração de Imagens, Viés Demográfico, Viés de Gênero, Viés Racial, Monte Carlo, Bootstrap, LLMs.
+
+
+## 📖 Como citar este trabalho
+
+Se utilizar este dataset, código ou metodologia, cite:
+
+SATO, Fabio Martiniano. Viés de gênero e raça na geração automática de imagens por IA: uma perspectiva estatística. Projeto de Pesquisa – Universidade Presbiteriana Mackenzie, 2025.
