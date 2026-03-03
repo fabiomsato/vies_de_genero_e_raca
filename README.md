@@ -154,3 +154,14 @@ Inteligência Artificial Generativa, Geração de Imagens, Viés Demográfico, V
 Se utilizar este dataset, código ou metodologia, cite:
 
 SATO, Fabio Martiniano. Viés de gênero e raça na geração automática de imagens por IA: uma perspectiva estatística. Projeto de Pesquisa – Universidade Presbiteriana Mackenzie, 2025.
+
+```text
+@mastersthesis{sato2025dissertacao,
+  author  = {Sato, Fabio Martiniano},
+  title   = {Viés de gênero e raça na geração automática de imagens por IA: Uma perspectiva estatística},
+  school  = {Universidade Presbiteriana Mackenzie},
+  year    = {2025},
+  address = {São Paulo},
+  type    = {Dissertação (Mestrado Profissional em Computação Aplicada)}
+}
+```
