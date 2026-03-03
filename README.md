@@ -66,8 +66,9 @@ Aplicação de:
 
 - Sugestão automatizada de ajustes nos prompts.
 
-📂 Estrutura do Repositório
+## 📂 Estrutura do Repositório
 
+```text
 vies_de_genero_e_raca/
 │
 ├── data/
