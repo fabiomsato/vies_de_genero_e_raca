@@ -100,6 +100,7 @@ vies_de_genero_e_raca/
 └── notebook/
     ├── Classificando_imagens.ipynb
     └── Monografia.ipynb
+...
 
 📈 Principais Contribuições
 
