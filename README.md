@@ -1,4 +1,5 @@
 Viés de Gênero e Raça em Imagens Geradas por IA
+
 📌 Sobre o Projeto
 
 Este repositório apresenta um método estatisticamente fundamentado para detecção e mitigação de vieses demográficos (gênero e raça) em imagens geradas por Inteligência Artificial.
@@ -66,6 +67,7 @@ Aplicação de:
 - Sugestão automatizada de ajustes nos prompts.
 
 📂 Estrutura do Repositório
+
 vies_de_genero_e_raca/
 │
 ├── data/
