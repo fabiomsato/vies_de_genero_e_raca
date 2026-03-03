@@ -1,6 +1,6 @@
-Viés de Gênero e Raça em Imagens Geradas por IA
+# Viés de Gênero e Raça em Imagens Geradas por IA
 
-📌 Sobre o Projeto
+## 📌 Sobre o Projeto
 
 Este repositório apresenta um método estatisticamente fundamentado para detecção e mitigação de vieses demográficos (gênero e raça) em imagens geradas por Inteligência Artificial.
 
@@ -18,7 +18,7 @@ O estudo combina:
 
 O objetivo é avaliar a confiabilidade estatística da detecção de vieses e propor uma estratégia prática de mitigação por meio da otimização automatizada de prompts.
 
-🎯 Objetivos
+## 🎯 Objetivos
 
 - Detectar desequilíbrios de gênero e raça em coleções de imagens geradas por IA.
 
@@ -30,7 +30,7 @@ O objetivo é avaliar a confiabilidade estatística da detecção de vieses e pr
 
 - Propor ajustes automáticos para reduzir sub-representações demográficas.
 
-🧪 Plataformas Avaliadas
+## 🧪 Plataformas Avaliadas
 
 O método foi aplicado em quatro plataformas comerciais de geração de imagens:
 
@@ -42,7 +42,7 @@ O método foi aplicado em quatro plataformas comerciais de geração de imagens:
 
 - Meta Imagine
 
-📊 Metodologia
+## 📊 Metodologia
 
 O método proposto segue as etapas:
 
@@ -102,7 +102,7 @@ vies_de_genero_e_raca/
     └── Monografia.ipynb
 ```
 
-📈 Principais Contribuições
+## 📈 Principais Contribuições
 
 Desenvolvimento de um método estatístico robusto para avaliação de vieses demográficos.
 
@@ -110,7 +110,7 @@ Validação empírica em múltiplas plataformas comerciais.
 
 Proposta prática de mitigação via ajuste automatizado de prompts.
 
-🔬 Contexto Acadêmico
+## 🔬 Contexto Acadêmico
 
 Este projeto foi desenvolvido como parte de pesquisa acadêmica sobre vieses em sistemas generativos de IA, com foco em:
 
@@ -122,7 +122,7 @@ Este projeto foi desenvolvido como parte de pesquisa acadêmica sobre vieses em 
 
 - Governança e aplicações práticas
 
-🚀 Como Executar
+## 🚀 Como Executar
 
 Clone o repositório:
 
@@ -130,7 +130,7 @@ git clone https://github.com/fabiomsato/vies_de_genero_e_raca.git
 
 Execute os notebooks na pasta /notebooks.
 
-📌 Aplicações Práticas
+## 📌 Aplicações Práticas
 
 O método pode ser aplicado em:
 
@@ -144,6 +144,6 @@ O método pode ser aplicado em:
 
 - Auditoria de modelos generativos
 
-📄 Palavras-chave
+## 📄 Palavras-chave
 
 Inteligência Artificial Generativa, Geração de Imagens, Viés Demográfico, Viés de Gênero, Viés Racial, Monte Carlo, Bootstrap, LLMs.
